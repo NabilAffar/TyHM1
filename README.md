@@ -12,8 +12,8 @@
 
 # Traduccion del capitulo 9
 <p> Traduccion y resumen sobre la descarbonizacion </p>
-<a href="https://nabilaffar.github.io/TyHM1/TRADUCCIONFINAL.pdf">
-<img src="WhatsApp Image 2021-06-23 at 17.54.28.jpeg" alt="Traducción" width="300px">
+<a href="https://nabilaffar.github.io/TyHM1/traduccionnabil.pdf">
+<img src="descarbo.jpeg" alt="Traducción" width="300px">
  </a>
  
  
