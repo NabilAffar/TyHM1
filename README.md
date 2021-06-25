@@ -6,7 +6,7 @@
 #### Crare una carpeta para el CV y otra carpeta para el capitulo del libro.
 
 #### Les dejo el link de mi repositorio haciendo clic en la imagen
- <a href="https://nabilaffar.github.io/TyHM1/CV.pdf">
+ <a href="https://nabilaffar.github.io/TyHM1/CVReady.pdf">
  <img src="WhatsApp Image 2021-06-24 at 23.09.36.jpeg" alt="CV" width="300px">
   </a>
 
